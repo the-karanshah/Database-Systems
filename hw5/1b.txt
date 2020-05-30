@@ -1,0 +1,1 @@
+doc("customerinfo.xml")//customerinfo[addr/city = "Toronto" and exists(assistant)]/name

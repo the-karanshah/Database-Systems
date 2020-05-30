@@ -1,0 +1,11 @@
+I used "Measure-Command {hadoop ..../ spark-submit...}" command in windows powershell.
+It gave directly the full running time including reading data time.
+
+These are the times given by it.
+task2
+hadoop - 33.17 seconds
+spark - 10.23 seconds
+
+task3 
+hadoop - 37.40 seconds
+spark - 11.53 seconds

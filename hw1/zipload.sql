@@ -1,0 +1,1 @@
+load from "C:\Users\Karan\Desktop\Stony Brook\sem2\ToDB\assignments\1\nyzip.csv" of DEL INSERT INTO CSE532.ZIPPOP;
